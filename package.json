@@ -10,10 +10,4 @@
     "jasmine-node": ""
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/wormly/specutils/issues"
-  },
-  "readme": "ERROR: No README data found!",
-  "_id": "wormly-specutils@0.0.1",
-  "_from": "wormly-specutils@"
 }
