@@ -1,13 +1,13 @@
 {
-  "name": "wormly-specutils",
-  "version": "0.0.1",
-  "description": "Collection of tools for usage in jasmine-node specs",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/wormly/specutils"
-  },
-  "devDependencies": {
-    "jasmine-node": ""
-  },
-  "license": "MIT",
+	"name": "wormly-specutils",
+	"version": "0.0.1",
+	"description": "Collection of tools for usage in jasmine-node specs",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/wormly/specutils"
+	},
+	"devDependencies": {
+		"jasmine-node": ""
+	},
+	"license": "MIT"
 }
