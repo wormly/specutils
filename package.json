@@ -1,0 +1,19 @@
+{
+  "name": "wormly-specutils",
+  "version": "0.0.1",
+  "description": "Collection of tools for usage in jasmine-node specs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wormly/specutils"
+  },
+  "devDependencies": {
+    "jasmine-node": ""
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wormly/specutils/issues"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "wormly-specutils@0.0.1",
+  "_from": "wormly-specutils@"
+}
